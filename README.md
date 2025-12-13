@@ -117,6 +117,9 @@
 
 </div>
 
+![snake gif](https://github.com/lekhamol/lekhamol/blob/output/github-snake-dark.svg)
+
+
 
 
 ##  Currently Learning 
