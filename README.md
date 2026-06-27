@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br><br>
 
 *Backend & Frameworks*<br>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/SQL-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /><br><br>
 
 *Databases & Tools*<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
