@@ -35,11 +35,11 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br><br>
 
 *Backend & Frameworks*<br>
-<img src="https://img.shields.io/badge/SQL-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/JavaScript-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /><br><br>
 
 *Databases & Tools*<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
