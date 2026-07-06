@@ -113,7 +113,7 @@
 <div align="center">
 
 <!-- Contribution / Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lekhamol&theme=onedark&hide_border=true&bg_color=0D1117&color=61AFEF&line=61AFEF&point=FFFFFF&area=true&area_color=3E4452&title_color=61AFEF" width="720"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lekhamol&theme=tokyo-night&hide_border=true" width="720"/>
 
 </div>
 
