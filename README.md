@@ -61,12 +61,13 @@
 
 
   <tr>
-    <td><b>EXPENSE TRACKER</b><br><i>Financial Management System</i></td>
+    <td><b>ELEVATEX
+</b><br><i>Smart Elevator Safety & Digital Twin</i></td>
     <td>
-      A comprehensive expense tracker application built with Maven, featuring SQL database integration for efficient financial tracking and money management.
+     An intelligent elevator monitoring and safety system that creates a real-time digital twin of an elevator, monitors sensor data such as temperature, vibration, motor current and floor position, and uses anomaly detection to identify potential faults and support predictive maintenance.
     </td>
     <td>
-      Java • Maven • MySQL • Spring Boot
+      Java • Spring Boot • React.js • IoT • ESP32 • AI/ML • MySQL/PostgreSQL
     </td>
     <td>
       🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
