@@ -77,6 +77,7 @@
 
 ##  Certifications
 <p>I have completed recognized courses to strengthen my skills and knowledge in Java</p>
+<p>I have completed recognized courses in MongoDB</p>
 
 [![NPTEL Java Silver](https://img.shields.io/badge/NPTEL-Java%20(Silver)-orange?style=for-the-badge&logo=certificate)](https://your-certificate-link.pdf)
 
