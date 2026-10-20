@@ -103,8 +103,8 @@
 
 | Platform  | Problems Solved | Rating Progress |
 |-----------|------------------|-----------------|
-| LeetCode  | 17+              | ███████░░░ 963 |
-| CodeChef  | 422              | ████████░░ 922 |
+| LeetCode  | 200+              | ███████░░░ 963 |
+| CodeChef  | 300+              | ████████░░ 922 |
 
 
 ##  GitHub Analytics
