@@ -73,6 +73,19 @@
       🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
     </td>
   </tr>
+  <tr>
+    <td><b>EDU-OD
+</b><br><i>Easy OD Approval with AI Integration</i></td>
+    <td>
+     An AI-integrated On-Duty (OD) approval system that digitizes college OD requests, automates faculty and HOD approval workflows, and enables students to track application status and download approved OD letters. Includes smart approval prioritization, document management, email notifications, and QR-code-based verification.
+    </td>
+    <td>
+      React.js • Node.js • Express.js • MongoDB • JWT • Multer • AI Integration
+    </td>
+    <td>
+      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
+    </td>
+  </tr>
 </table>
 
 ##  Certifications
