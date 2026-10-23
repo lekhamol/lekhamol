@@ -61,7 +61,7 @@
 
 
   <tr>
-    <td><b>ELEVATEX
+    <td><b>ELEVATE-X
 </b><br><i>Smart Elevator Safety & Digital Twin</i></td>
     <td>
      An intelligent elevator monitoring and safety system that creates a real-time digital twin of an elevator, monitors sensor data such as temperature, vibration, motor current and floor position, and uses anomaly detection to identify potential faults and support predictive maintenance.
