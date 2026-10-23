@@ -15,7 +15,7 @@
 
 <div align="center">
 
- *Passionate learner* and *Developer* who enjoys creating projects and experimenting with modern tools. *Currently* deepening my knowledge in *Java, **OOPs, and **Full-stack Technologies* to enhance my *Problem-solving abilities*.
+ *Passionate learner* and *Developer* who enjoys creating projects and experimenting with modern tools. *Currently* deepening my knowledge in *Java, **OOPs, and **Full-stack Technologies **Rest APIs to enhance my *Problem-solving abilities*.
 
 </div>  
 
